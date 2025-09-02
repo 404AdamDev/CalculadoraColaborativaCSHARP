@@ -166,7 +166,7 @@ namespace CalculadoraWeb
             return result;
         }
 
-        // Integrante 4 (Adam)
+        // Integrante 4 (Sophia)
         // Função para dividir dois números passados como parâmetros
         public static double Divisao(double a, double b)
         {
@@ -205,4 +205,5 @@ namespace CalculadoraWeb
             }
         }
     }
+
 }
